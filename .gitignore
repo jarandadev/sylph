@@ -9,6 +9,7 @@ Makefile
 
 # IDE configuration
 .vscode/
+.cache/
 
 # macOS system files
 .DS_Store
